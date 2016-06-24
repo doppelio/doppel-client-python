@@ -46,124 +46,124 @@ Work in progress
 
 # Commands Reference
 
-## 1. List your users
+## List your users
 
 Return a list which contains the IDs of your users.
 
 
-## 2. Create an user
+## Create an user
 
 Create a new user and return its ID.
 
 
-## 3. Get an user
+## Get an user
 
 Return the user corresponding to the ID.
 
 
-## 4. Save an user
+## Save an user
 
 Save an user at a particular ID.
 
 
-## 5. Update an user
+## Update an user
 
 Update an user at a particular ID.
 
 
-## 6. Delete an user
+## Delete an user
 
 Delete a particular user.
 
 
-## 7. Get ratings of an user
+## Get ratings of an user
 
 Get all the ratings of an user.
 
 
-## 8. Get a rating
+## Get a rating
 
 Get the rating of a particular user on a particular item.
 
 
-## 9. Save a rating
+## Save a rating
 
 Get the rating of a particular user on a particular item.
 
 
-## 10. Delete a rating
+## Delete a rating
 
 Delete the rating of a particular user on a particular item.
 
 
-## 11. Get a prediction
+## Get a prediction
 
 Return the prediction of the rating of an user on an item.
 
 
-## 12. Get recommendations for an user
+## Get recommendations for an user
 
 Get recommendations of items for an user.
 
 
-## 13. Get similar users
+## Get similar users
 
 Retrieve users that are similar to a given user.
 
 
-## 14. Get similarity between users
+## Get similarity between users
 
 Return the similarity between two users. 
 				The similarity is a number between -1 and 1. A similarity near -1 means that the two users are not similar. On the contrary, a similarity close 1 means that the two users are similar. 
 				Moreover, the similarity is symmetric, that is to say the similarity between an user 1 and an user 2 is equal to the similarity between an user 2 and an user 1.
 
 
-## 15. List your items
+## List your items
 
 Return a list which contains the IDs of your items.
 
 
-## 16. Create an item
+## Create an item
 
 Create a new item and return its ID.
 
 
-## 17. Get an item
+## Get an item
 
 Return the item corresponding to the ID.
 
 
-## 18. Save an item
+## Save an item
 
 Save an item at a particular ID.
 
 
-## 19. Update an item
+## Update an item
 
 Update an item at a particular ID.
 
 
-## 20. Delete an item
+## Delete an item
 
 Delete a particular item.
 
 
-## 21. Get ratings of an item
+## Get ratings of an item
 
 Get all the ratings of an item.
 
 
-## 22. Get recommendations for an item
+## Get recommendations for an item
 
 Get recommendations of users for an item.
 
 
-## 23. Get similar items
+## Get similar items
 
 Retrieve items that are similar to a given item.
 
 
-## 24. Get similarity between items
+## Get similarity between items
 
 Return the similarity between two items. 
 				The similarity is a number between -1 and 1. A similarity near -1 means that the two items are not similar. On the contrary, a similarity close 1 means that the two items are similar. 
